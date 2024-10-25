@@ -1,12 +1,12 @@
 {
-  "homepage": "https://abh5ay.github.io/FOODPANDA",
+ 
 
   "name": "jomato",
   
   "version": "0.1.0",
   
   "private": true,
-  
+  "homepage": "https://abh5ay.github.io/FOODPANDA",
   "dependencies": {
   
     
